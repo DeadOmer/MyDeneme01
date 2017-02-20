@@ -1,0 +1,16 @@
+#include<studio.h>
+
+void main()
+{
+  char name[120], surname[120];
+  gets(name);
+  gets(surname);
+  printf(">>>>>>\n");
+  printf("%s %s topsun sen oglum!", name, surname);
+  printf(">>>>>>\n");
+  printf("the good\n");
+  printf("the bad\n");
+  printf("the ugly\n");
+  printf("--fin\n");
+  printf("ekledim\n");
+}
