@@ -12,7 +12,7 @@ void main()
   printf("the bad\n");
   printf("the ugly\n");
   printf("--fin\n");
-  /* commentos */
+  /* commentos portos */
   printf("ekledim\n");
   printf("tekledim\n");
   printf("kekledim\n");
