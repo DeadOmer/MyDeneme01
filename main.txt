@@ -12,6 +12,8 @@ void main()
   printf("the bad\n");
   printf("the ugly\n");
   printf("--fin\n");
+  /* commentos */
   printf("ekledim\n");
   printf("tekledim\n");
+  printf("kekledim\n");
 }
