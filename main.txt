@@ -13,4 +13,5 @@ void main()
   printf("the ugly\n");
   printf("--fin\n");
   printf("ekledim\n");
+  printf("tekledim\n");
 }
